@@ -1,0 +1,4 @@
+{
+  "browserName" : "chrome",
+  "baseUrl" : "https://www.saucedemo.com"
+}
